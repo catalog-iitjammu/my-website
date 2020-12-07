@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{97:function(a){a.exports=JSON.parse('{"allTagsPath":"/acad/blog/tags","slug":"pg","name":"pg","count":2,"permalink":"/acad/blog/tags/pg"}')}}]);
